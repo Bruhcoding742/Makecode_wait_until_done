@@ -1,1 +1,15 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<category name="ActionUtils" colour="#FF8800" icon="\u23F3">
+    <block type="actionutils_startaction">
+        <value name="duration">
+            <shadow type="math_number">
+                <field name="NUM">2000</field>
+            </shadow>
+        </value>
+    </block>
+    <block type="actionutils_isactiondone"></block>
+    <block type="actionutils_waituntilactiondonethen">
+        <statement name="callback">
+            <shadow type="controls_repeat_ext"></shadow>
+        </statement>
+    </block>
+</category>
