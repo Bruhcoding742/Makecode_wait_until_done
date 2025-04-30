@@ -1,5 +1,6 @@
 {
     "name": "action-waiter",
+    "version": "1.0.0",
     "description": "Wait until an action finishes before continuing.",
     "dependencies": {},
     "files": [
