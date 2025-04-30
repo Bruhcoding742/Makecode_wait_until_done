@@ -1,0 +1,9 @@
+{
+    "name": "action-waiter",
+    "description": "Wait until an action finishes before continuing.",
+    "dependencies": {},
+    "files": [
+        "main.ts",
+        "main.blocks"
+    ]
+}
