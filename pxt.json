@@ -5,5 +5,13 @@
     "files": [
         "main.ts",
         "main.blocks"
-    ]
+    ],
+    "targetVersions": {
+        "target": "2.0.53",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }
