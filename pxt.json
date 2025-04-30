@@ -4,7 +4,8 @@
     "dependencies": {},
     "files": [
         "main.ts",
-        "main.blocks"
+        "main.blocks",
+        "tutorial-info-cache.json"
     ],
     "targetVersions": {
         "target": "2.0.53",
